@@ -5,7 +5,8 @@
 
 A flutter library to show images from the internet and keep them in the cache directory.
 
-
+## Jaren Updated
+Disable `web` platform support since it's using the flutter package `web: ^1.0.0` which conflicts with some existing packages.
 
 ## Sponsors
 
